@@ -1,4 +1,4 @@
-# Calculator_Project
+# Calculator_Playground
 
 This is my first project coding in Swift. It is a calculator that can take a string input that contains a mathematical expression and computes it
 
