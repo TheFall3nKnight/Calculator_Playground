@@ -252,5 +252,5 @@ func calculate (equation : String) -> String {
 
 var equation = "3+3" // Sample Equation Please Edit the Variable
 print(calculate(equation: equation))
-print("TEST")
+
 
