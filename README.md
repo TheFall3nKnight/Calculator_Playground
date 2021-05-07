@@ -26,3 +26,5 @@ Other Calculator: (-3)^2 = 9
 Since this is my first project, it is very long and I know that there are probably easier and more efficient ways doing what I did. There also might be some bugs. If you find any please let me know ASAP. I want to imrove this as much as I can.
 
 You may need XCODE in order to run this or you can run this in a online compiler.
+
+Click on the content.swift file to check out the project 
