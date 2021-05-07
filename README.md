@@ -23,7 +23,7 @@ Some calculators when raising a negative to a power without parentheses may only
 For example:
 My Calculator: ~3^2 = 9
 Other Calculators: -3^2 = -9
-My Calculator: -~3^2) = -9
+My Calculator: ~(3^2) = -9
 Other Calculator: (-3)^2 = 9
 Since this is my first project, it is very long and I know that there are probably easier and more efficient ways doing what I did. There also might be some bugs. If you find any please let me know ASAP. I want to imrove this as much as I can.
 
