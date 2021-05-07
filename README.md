@@ -1,6 +1,6 @@
 # Calculator_Playground
 
-* Playground File 
+Playground File 
 
 This is my first project coding in Swift. It is a calculator that can take a string input that contains a mathematical expression and computes it
 
@@ -24,7 +24,7 @@ Correct: 6^(4-5)
 
 Incorrect: 6^4-5. This will first do 6^4 and then subtract 5.
 
-Some calculators when raising a negative to a power without parentheses may only raise the number and not the negative as well. Mine doesn't do this instead it it reaises the whole thing to the power
+Some calculators when raising a negative to a power without parentheses may only raise the number and not the negative as well. Mine doesn't do this instead it it raises the whole thing to the power
 
 For example:
 
