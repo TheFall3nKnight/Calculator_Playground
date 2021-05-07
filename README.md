@@ -1,5 +1,7 @@
 # Calculator_Playground
 
+* Playground File 
+
 This is my first project coding in Swift. It is a calculator that can take a string input that contains a mathematical expression and computes it
 
 For example:
